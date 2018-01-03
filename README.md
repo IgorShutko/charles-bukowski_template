@@ -1,2 +1,2 @@
-# charles-bukowski_template
+# Charles Bukowski - Biography
 Project for freeCodeCamp
